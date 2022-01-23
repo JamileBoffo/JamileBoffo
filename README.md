@@ -1,5 +1,6 @@
 ## Olá! Sou a Jamile Boffo
 
+🔭 Estudando Desenvolvimento Full Stack
 <div>
   <a href="https://github.com/JamileBoffo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamileboffo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
