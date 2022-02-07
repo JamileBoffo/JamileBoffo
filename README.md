@@ -1,10 +1,10 @@
 ## Olá! Sou a Jamile Boffo
 
-📚 Studying FullStack Development at BlueEdTech.
+📚 Estudando Desenvolvimento Fullstack pela BlueEdTech
 
-🔎 Looking for new opportunities.
+🔎 Buscando novas oportunidades.
 
-🌆 Maringá - PR / Brazil
+🌆 Maringá - PR / Brasil
 
   <div>
 
