@@ -2,7 +2,7 @@
 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/d5d98aa18696fefe7cf6542215d9ad9b.gif" width="200" height="200" border="1" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
-📚 Estudando Desenvolvimento Fullstack pela BlueEdTech
+📚 Desenvolvedora Fullstack
 
 🔎 Buscando novas oportunidades.
 
